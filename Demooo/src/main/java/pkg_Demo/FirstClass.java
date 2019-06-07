@@ -7,7 +7,7 @@ public class FirstClass
 	@Test
 	public void method1()
 	{
-		System.out.println("Kuddoooooos");
+		System.out.println("Kuddoooooo000s");
 	}
 	
 
